@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from html.tonatheme.com/2020/Sparkleclean/pricing.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Nov 2024 04:08:09 GMT -->
+<!-- Mirrored from html.tonatheme.com/2020/Sparkleclean/pricing.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Nov 2024 04:08:09 GMT -->
 <head>
 <meta charset="utf-8">
 <title>Sparkleclean -  </title>
@@ -74,46 +74,46 @@
                                     <li class="dropdown"><a href="/">Home</a>
                                         <ul>
                                             <li><a href="/">Home Page 01</a></li>
-                                            <li><a href="index-3.html">Home Page 02</a></li>
-                                            <li><a href="index-4.html">Home Page 03</a></li>
+                                            <li><a href="index-3.php">Home Page 02</a></li>
+                                            <li><a href="index-4.php">Home Page 03</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li class="dropdown"><a href="services.html">Pest Services</a>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li class="dropdown"><a href="services.php">Pest Services</a>
                                         <ul>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="cockroach-control.html">Cockroach Control</a></li>
-                                            <li class="active"><a href="termites-control.html">Termites Control</a></li>
-                                            <li><a href="spiders-control.html">Spiders Control</a></li>
-                                            <li><a href="rodents-control.html">Rodents Control</a></li>
-                                            <li><a href="fly-control.html">Fly Control</a></li>
-                                            <li><a href="bee-control.html">Bee Control</a></li>
-                                            <li><a href="bed-bug-control.html">Bed Bug Control</a></li>
+                                            <li><a href="services.php">Services</a></li>
+                                            <li><a href="cockroach-control.php">Cockroach Control</a></li>
+                                            <li class="active"><a href="termites-control.php">Termites Control</a></li>
+                                            <li><a href="spiders-control.php">Spiders Control</a></li>
+                                            <li><a href="rodents-control.php">Rodents Control</a></li>
+                                            <li><a href="fly-control.php">Fly Control</a></li>
+                                            <li><a href="bee-control.php">Bee Control</a></li>
+                                            <li><a href="bed-bug-control.php">Bed Bug Control</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="projects.html">Pages</a>
+                                    <li class="dropdown"><a href="projects.php">Pages</a>
                                         <ul>
-                                            <li><a href="gallery.html">Gallery </a></li>
-                                            <li><a href="pricing.html">Pricing</a></li>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="faq.html">FAQ</a></li>
-                                            <li><a href="404.html">404 Page</a></li>
+                                            <li><a href="gallery.php">Gallery </a></li>
+                                            <li><a href="pricing.php">Pricing</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="faq.php">FAQ</a></li>
+                                            <li><a href="404.php">404 Page</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">News</a>
                                         <ul>
-                                            <li><a href="blog.html">Blog Grid</a></li>
-                                            <li><a href="blog-2.html">Blog Classic</a></li>
-                                            <li><a href="blog-3.html">Blog List</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
+                                            <li><a href="blog.php">Blog Grid</a></li>
+                                            <li><a href="blog-2.php">Blog Classic</a></li>
+                                            <li><a href="blog-3.php">Blog List</a></li>
+                                            <li><a href="blog-details.php">Blog Details</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
                         </nav>
                     </div>
-                    <div class="link-btn"><a href="contact.html" class="theme-btn btn-style-one"><span>Appointment</span></a></div>
+                    <div class="link-btn"><a href="contact.php" class="theme-btn btn-style-one"><span>Appointment</span></a></div>
                 </div>
             </div>
         </div>
@@ -137,7 +137,7 @@
                             <nav class="main-menu navbar-expand-md navbar-light">
                             </nav>
                         </div>
-                        <div class="link-btn"><a href="contact.html" class="theme-btn btn-style-one"><span>Appointment</span></a></div>
+                        <div class="link-btn"><a href="contact.php" class="theme-btn btn-style-one"><span>Appointment</span></a></div>
                     </div>
                 </div>
             </div>
@@ -177,7 +177,7 @@
     <section class="page-title" style="background-image: url(assets/images/background/common.png);">
         <div class="auto-container">
             <h1>Pricing Table</h1>
-            <div class="text">Treating Customers Like Family Since 2017</div>
+            <div class="text">Experience The Cleaning Extravaganza</div>
         </div>
     </section>
 
@@ -198,7 +198,7 @@
                                 <li class="unavailable">Mosquito Reduction</li>
                             </ul>                            
                         </div>
-                        <div class="link-btn"><a href="blog-details.html" class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
+                        <div class="link-btn"><a href="blog-details.php" class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
                     </div>
                 </div>
                 <div class="col-lg-4 pricing-block">
@@ -214,7 +214,7 @@
                                 <li class="unavailable">Mosquito Reduction</li>
                             </ul>                            
                         </div>
-                        <div class="link-btn"><a href="blog-details.html" class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
+                        <div class="link-btn"><a href="blog-details.php" class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
                     </div>
                 </div>
                 <div class="col-lg-4 pricing-block">
@@ -230,7 +230,7 @@
                                 <li>Mosquito Reduction</li>
                             </ul>                            
                         </div>
-                        <div class="link-btn"><a href="blog-details.html" class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
+                        <div class="link-btn"><a href="blog-details.php" class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
                     </div>
                 </div>
             </div>
@@ -260,7 +260,7 @@
                     <div class="content">
                         <h2>Book an <br> Appointment Today!</h2>
                         <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore dolore magna aliqua enim ad </div>
-                        <div class="link-btn"><a href="contact.html" class="theme-btn btn-style-one"><span> Get Appointment</span></a></div>
+                        <div class="link-btn"><a href="contact.php" class="theme-btn btn-style-one"><span> Get Appointment</span></a></div>
                     </div>
                 </div>
             </div>
@@ -384,7 +384,7 @@
 
 </body>
 
-<!-- Mirrored from html.tonatheme.com/2020/Sparkleclean/pricing.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Nov 2024 04:08:09 GMT -->
+<!-- Mirrored from html.tonatheme.com/2020/Sparkleclean/pricing.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Nov 2024 04:08:09 GMT -->
 </html>
 
 
