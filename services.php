@@ -10,7 +10,7 @@
         </section>
 
         <!-- services Section -->
-        <section class="services-section">
+        <section class="services-section" style="margin-bottom: 0px; padding-bottom: 0px;">
             <div class="auto-container">
 
                 <div class="wrapper-box">

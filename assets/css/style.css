@@ -2345,11 +2345,11 @@ img {
 
 .services-section {
     position: relative;
-    padding: 150px 0 370px;
+    padding-top: 150px;
     background-image: -moz-linear-gradient( 90deg, rgba(233,247,242,0.4) 0%, rgb(233,247,242) 100%);
     background-image: -webkit-linear-gradient( 90deg, rgba(233,247,242,0.4) 0%, rgb(233,247,242) 100%);
     background-image: -ms-linear-gradient( 90deg, rgba(233,247,242,0.4) 0%, rgb(233,247,242) 100%);
-    margin-bottom: -250px;
+    
 }
   
 .service-block-one .inner-box {

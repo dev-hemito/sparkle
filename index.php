@@ -5,7 +5,7 @@ $current_url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https'
 <link rel="canonical" href="<?php echo htmlspecialchars($current_url, ENT_QUOTES, 'UTF-8'); ?>" />
 
 <?php
-$BASE_URL = 'http://localhost/sparkle';
+$BASE_URL = 'https://sparkleclean.in';
 $about = 'about';
 $services = 'services';
 $gallery = 'gallery';
