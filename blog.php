@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-lg-4 news-block-one" style="border: 1px solid rgb(191, 191, 191);border-radius: 20px; padding-top: 15px; ">
                         <div class="inner-box">
-                            <div class="image"><a href="blog/hiring-housekeeping-services"><img
+                            <div class="image"><a href="blogs/hiring-housekeeping-services"><img
                                         src="assets/images/image7.png" alt=""></a></div>
                             <h5><a href="blogs/hiring-housekeeping-services">Hiring Housekeeping Services: 5 Reasons To
                                     Consider
