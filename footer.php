@@ -16,7 +16,7 @@
                             <ul class="list">
                                 <li><a href="<?php echo $BASE_URL; ?>/about">About Sparkle Clean </a></li>
                                 <li><a href="<?php echo $BASE_URL; ?>/services">Our Services</a></li>
-                                <li><a href="<?php echo $BASE_URL; ?>/blog">Our Blog </a></li>
+                                <li><a href="<?php echo $BASE_URL; ?>/blogs">Our Blog </a></li>
                                 <li><a href="<?php echo $BASE_URL; ?>/contact">Contact Us</a></li>
                             </ul>
                         </div>
