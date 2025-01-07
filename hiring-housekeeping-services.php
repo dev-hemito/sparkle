@@ -1,6 +1,3 @@
-
-
-
 <!-- Page Title -->
 <nav aria-label="breadcrumb ">
     <ol class="breadcrumb">
@@ -123,11 +120,11 @@
                         <h3 class="sidebar-title">Cleaning</h3>
                         <div class="widget-content">
                             <ul class="list">
-                                <li><a href='house-keeping'>House Keeping</a></li>
-                                <li><a href='sofa-cleaning'>Sofa Cleaning</a></li>
-                                <li><a href='residential-cleaning'>Residential Cleaning</a></li>
-                                <li><a href='deep-cleaning'>Deep Cleaning</a></li>
-                                <li><a href='facade-cleaning'>Facade Cleaning</a></li>
+                                <li><a href='<?php echo $BASE_URL; ?>/services/house-keeping'>House Keeping</a></li>
+                                <li><a href='<?php echo $BASE_URL; ?>/services/sofa-cleaning'>Sofa Cleaning</a></li>
+                                <li><a href='<?php echo $BASE_URL; ?>/services/residential-cleaning'>Residential Cleaning</a></li>
+                                <li><a href='<?php echo $BASE_URL; ?>/services/deep-cleaning'>Deep Cleaning</a></li>
+                                <li><a href='<?php echo $BASE_URL; ?>/services/facade-cleaning'>Facade Cleaning</a></li>
                             </ul>
                         </div>
                     </div>
@@ -137,4 +134,3 @@
         </div>
     </div>
 </section>
-
