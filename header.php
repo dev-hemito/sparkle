@@ -76,7 +76,7 @@
                                         </li>
 
                                         <li> <a href="<?php echo $BASE_URL; ?>/blogs">Blogs</a>
-                                            <!-- <li><a href="contact">Contact</a></li> -->
+                                            
                                     </ul>
                                 </div>
                             </nav>
@@ -108,7 +108,7 @@
                                 <nav class="main-menu navbar-expand-md navbar-light">
                                 </nav>
                             </div>
-                            <div class="link-btn"><a href="contact"
+                            <div class="link-btn"><a href="<?php echo $BASE_URL; ?>/contact"
                                     class="theme-btn btn-style-one"><span>Appointment</span></a></div>
                         </div>
                     </div>

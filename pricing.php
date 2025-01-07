@@ -108,7 +108,7 @@
                                             <li><a href="blog-details">Blog Details</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact">Contact</a></li>
+                                    <li><a href="<?php echo $BASE_URL; ?>/contact">Contact</a></li>
                                 </ul>
                             </div>
                         </nav>
