@@ -5,7 +5,7 @@
 <nav aria-label="breadcrumb ">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="<?php echo $BASE_URL; ?>/blogs.php">Blog</a></li>
+        <li class="breadcrumb-item"><a href="<?php echo $BASE_URL; ?>/blogs">Blog</a></li>
         <li class="breadcrumb-item active" aria-current="page">Hiring Housekeeping Services: 5 Reasons To Consider</li>
     </ol>
 </nav>
@@ -123,11 +123,11 @@
                         <h3 class="sidebar-title">Cleaning</h3>
                         <div class="widget-content">
                             <ul class="list">
-                                <li><a href='house-keeping.php'>House Keeping</a></li>
-                                <li><a href='sofa-cleaning.php'>Sofa Cleaning</a></li>
-                                <li><a href='residential-cleaning.php'>Residential Cleaning</a></li>
-                                <li><a href='deep-cleaning.php'>Deep Cleaning</a></li>
-                                <li><a href='facade-cleaning.php'>Facade Cleaning</a></li>
+                                <li><a href='house-keeping'>House Keeping</a></li>
+                                <li><a href='sofa-cleaning'>Sofa Cleaning</a></li>
+                                <li><a href='residential-cleaning'>Residential Cleaning</a></li>
+                                <li><a href='deep-cleaning'>Deep Cleaning</a></li>
+                                <li><a href='facade-cleaning'>Facade Cleaning</a></li>
                             </ul>
                         </div>
                     </div>

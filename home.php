@@ -168,7 +168,7 @@
                         you can truly feel it from within.
                     </div>
 
-                    <div class="link-btn"><a href="services.php" class="theme-btn btn-style-one"><span> Find
+                    <div class="link-btn"><a href="services" class="theme-btn btn-style-one"><span> Find
                                 Services</span></a></div>
                 </div>
             </div>
@@ -191,66 +191,66 @@
                 <div class="col-lg-4 col-md-6 service-block-one">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
                         <div class="icon"><img src='serviceimages/house.png' /></div>
-                        <h4><a href="house-keeping.php">Housekeeping Services</a></h4>
+                        <h4><a href="house-keeping">Housekeeping Services</a></h4>
                         <div class="text">Housekeeping services offer you the premium experience to explore the
                             art of cleanliness. It includes transforming your spaces into well-organised spaces
                             that come with the utmost professionalism and detailing.
                         </div>
-                        <div class="link-btn"><a href="house-keeping.php"
+                        <div class="link-btn"><a href="house-keeping"
                                 class="theme-btn btn-style-one style-two"><span>Learn More</span></a></div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 service-block-one">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="icon"><img src='serviceimages/sofa.png' /></span></div>
-                        <h4><a href="sofa-cleaning.php">Sofa cleaning services</a></h4>
+                        <h4><a href="sofa-cleaning">Sofa cleaning services</a></h4>
                         <div class="text">Want to give a new face to your furniture by removing the dust and
                             dirt in it? Sparkleclean’s sofa cleaning services remove the stains or marks present
                             on the sofa. The result will be remarkable, like if you are welcoming a brand new
                             sofa.
                         </div>
-                        <div class="link-btn"><a href="sofa-cleaning.php"
+                        <div class="link-btn"><a href="sofa-cleaning"
                                 class="theme-btn btn-style-one style-two"><span>Learn More</span></a></div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 service-block-one">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
                         <div class="icon"><img src='serviceimages/residential.png' /></span></div>
-                        <h4><a href="residential-cleaning.php">Residential cleaning services</a></h4>
+                        <h4><a href="residential-cleaning">Residential cleaning services</a></h4>
                         <div class="text">Sparkle Clean’s residential cleaning services are the perfect solution
                             to your unique cleaning troubles. Our services assure top-notch cleaning that covers
                             every nook and corner of your residence and makes them spotless.
                         </div>
-                        <div class="link-btn"><a href="residential-cleaning.php"
+                        <div class="link-btn"><a href="residential-cleaning"
                                 class="theme-btn btn-style-one style-two"><span>Learn More</span></a></div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 service-block-one">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="icon"><img src='serviceimages/deep.png' /></div>
-                        <h4><a href="deep-cleaning.php">Deep Cleaning Services</a></h4>
+                        <h4><a href="deep-cleaning">Deep Cleaning Services</a></h4>
                         <div class="text">Deep cleaning services cover the areas that regular cleaning cannot
                             handle. This includes areas where dirt and bacteria easily accumulate and are often
                             neglected. They help in cleaning this dirt with minute attention to detail.
                         </div>
-                        <div class="link-btn"><a href="deep-cleaning.php"
+                        <div class="link-btn"><a href="deep-cleaning"
                                 class="theme-btn btn-style-one style-two"><span>Learn More</span></a></div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 service-block-one">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="icon"><img src='serviceimages/facade.png' /></div>
-                        <h4><a href="facade-cleaning.php">Facade Cleaning Services</a></h4>
+                        <h4><a href="facade-cleaning">Facade Cleaning Services</a></h4>
                         <div class="text">Facade cleaning services help you get the best impression on the
                             exteriors of your building giving a visually pleasing look. They ensure that the
                             exterior remains clean by removing dirt, stains, grime and pollutants.
                         </div>
-                        <div class="link-btn"><a href="facade-cleaning.php"
+                        <div class="link-btn"><a href="facade-cleaning"
                                 class="theme-btn btn-style-one style-two"><span>Learn More</span></a></div>
                     </div>
                 </div>
             </div>
-            <div class="all-service-link text-center mt-30 mb-30"><a href="services.php"
+            <div class="all-service-link text-center mt-30 mb-30"><a href="services"
                     class="theme-btn btn-style-one style-three"><span>More Services</span></a></div>
         </div>
     </div>
@@ -667,40 +667,40 @@
                 <div class="row">
                     <div class="col-lg-4 news-block-one">
                         <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                            <div class="image"><a href="blog-details.php"><img src="assets/images/resource/news-1.jpg"
+                            <div class="image"><a href="blog-details"><img src="assets/images/resource/news-1.jpg"
                                         alt=""></a></div>
                             <div class="category">Lifestyle</div>
-                            <h4><a href="blog-details.php">Including animation in your design system</a></h4>
+                            <h4><a href="blog-details">Including animation in your design system</a></h4>
                             <div class="post-meta">By <a href="#"><span> Eva Green</span></a> - <a href="#">October 13,
                                     2020</a></div>
                             <div class="text">Lorem ipsum dolor sit amet consectur adip sed eiusmod tempor.</div>
-                            <div class="link-btn"><a href="blog-details.php"
+                            <div class="link-btn"><a href="blog-details"
                                     class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
                         </div>
                     </div>
                     <div class="col-lg-4 news-block-one">
                         <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                            <div class="image"><a href="blog-details.php"><img src="assets/images/resource/news-2.jpg"
+                            <div class="image"><a href="blog-details"><img src="assets/images/resource/news-2.jpg"
                                         alt=""></a></div>
                             <div class="category"> Lifestyle</div>
-                            <h4><a href="blog-details.php">Including animation in your design system</a></h4>
+                            <h4><a href="blog-details">Including animation in your design system</a></h4>
                             <div class="post-meta">By <a href="#"><span> Eva Green</span></a> - <a href="#">October 13,
                                     2020</a></div>
                             <div class="text">Lorem ipsum dolor sit amet consectur adip sed eiusmod tempor.</div>
-                            <div class="link-btn"><a href="blog-details.php"
+                            <div class="link-btn"><a href="blog-details"
                                     class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
                         </div>
                     </div>
                     <div class="col-lg-4 news-block-one">
                         <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                            <div class="image"><a href="blog-details.php"><img src="assets/images/resource/news-3.jpg"
+                            <div class="image"><a href="blog-details"><img src="assets/images/resource/news-3.jpg"
                                         alt=""></a></div>
                             <div class="category">Lifestyle</div>
-                            <h4><a href="blog-details.php">Including animation in your design system</a></h4>
+                            <h4><a href="blog-details">Including animation in your design system</a></h4>
                             <div class="post-meta">By <a href="#"><span> Eva Green</span></a> - <a href="#">October 13,
                                     2020</a></div>
                             <div class="text">Lorem ipsum dolor sit amet consectur adip sed eiusmod tempor.</div>
-                            <div class="link-btn"><a href="blog-details.php"
+                            <div class="link-btn"><a href="blog-details"
                                     class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
                         </div>
                     </div>

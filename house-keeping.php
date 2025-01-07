@@ -69,13 +69,13 @@
                             <h3 class="sidebar-title">Cleaning</h3>
                             <div class="widget-content">
                                 <ul class="list">
-                                    <li><a href="cockroach-control.php">Cockroach Control</a></li>
-                                    <li><a href="termites-control.php">Termites Control</a></li>
-                                    <li class="active"><a href="spiders-control.php">Spiders Control</a></li>
-                                    <li><a href="rodents-control.php">Rodents Control</a></li>
-                                    <li><a href="fly-control.php">Fly Control</a></li>
-                                    <li><a href="bee-control.php">Bee Control</a></li>
-                                    <li><a href="bed-bug-control.php">Bed Bug Control</a></li>
+                                    <li><a href="cockroach-control">Cockroach Control</a></li>
+                                    <li><a href="termites-control">Termites Control</a></li>
+                                    <li class="active"><a href="spiders-control">Spiders Control</a></li>
+                                    <li><a href="rodents-control">Rodents Control</a></li>
+                                    <li><a href="fly-control">Fly Control</a></li>
+                                    <li><a href="bee-control">Bee Control</a></li>
+                                    <li><a href="bed-bug-control">Bed Bug Control</a></li>
                                 </ul>
                             </div>
                         </div>

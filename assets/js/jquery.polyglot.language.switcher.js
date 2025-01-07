@@ -8,7 +8,7 @@
  Author: Ixtendo
  Author URI: http://www.ixtendo.com
  License: MIT License
- License URI: http://www.opensource.org/licenses/mit-license.php
+ License URI: http://www.opensource.org/licenses/mit-license
  ------------------------------------------------------------------------- */
 
 /**
