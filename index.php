@@ -31,59 +31,59 @@ if (isset($_GET['page'])) {
 
     switch ($page) {
         case $about:
-            include 'header';
-            include('about');
-            include 'footer';
+            include 'header.php';
+            include('about.php');
+            include 'footer.php';
             break;
         case $services:
-            include 'header';
-            include('services');
-            include 'footer';
+            include 'header.php';
+            include('services.php');
+            include 'footer.php';
             break;
         case $gallery:
-            include 'header';
-            include('gallery');
-            include 'footer';
+            include 'header.php';
+            include('gallery.php');
+            include 'footer.php';
             break;
         case $blogs:
-            include 'header';
-            include('blog');
-            include 'footer';
+            include 'header.php';
+            include('blog.php');
+            include 'footer.php';
             break;
         case $deepCleaning:
-            include 'subheader';
-            include('deep-cleaning');
-            include 'footer';
+            include 'subheader.php';
+            include('deep-cleaning.php');
+            include 'footer.php';
             break;
         case $houseKeeping:
-            include 'subheader';
-            include('house-keeping');
-            include 'footer';
+            include 'subheader.php';
+            include('house-keeping.php');
+            include 'footer.php';
             break;
         case $facadeCleaning:
-            include 'subheader';
-            include('facade-cleaning');
-            include 'footer';
+            include 'subheader.php';
+            include('facade-cleaning.php');
+            include 'footer.php';
             break;
         case $residentialCleaning:
-            include 'subheader';
-            include('residential-cleaning');
-            include 'footer';
+            include 'subheader.php';
+            include('residential-cleaning.php');
+            include 'footer.php';
             break;
         case $sofaCleaning:
-            include 'subheader';
-            include('sofa-cleaning');
-            include 'footer';
+            include 'subheader.php';
+            include('sofa-cleaning.php');
+            include 'footer.php';
             break;
         case $hiringHousekeeper:
-            include 'subheader';
-            include('hiring-housekeeping-services');
-            include 'footer';
+            include 'subheader.php';
+            include('hiring-housekeeping-services.php');
+            include 'footer.php';
             break;
         case $contact:
-            include 'header';
-            include('contact');
-            include 'footer';
+            include 'header.php';
+            include('contact.php');
+            include 'footer.php';
             break;
         case $index:
         case $indexphp:
@@ -92,13 +92,12 @@ if (isset($_GET['page'])) {
         default:
             error_log("No matching page found for: " . $page);
             echo "<script>console.log('Page not found: " . htmlspecialchars($page) . "')</script>";
-            include('404');
+            include('404.php');
     }
 } else {
     error_log("Loading home page");
-    include 'header';
-
-    include('home');
-    include 'footer';
+    include 'header.php';
+    include('home.php');
+    include 'footer.php';
 }
 ?>
