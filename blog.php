@@ -26,7 +26,7 @@
                                 spaces. Even if you rush the process and manage to do it, the results might lack that
                                 professional touch leaving you unsatisfied.
                             </div>
-                            <div class="link-btn"><a href="blog/hiring-housekeeping-services"
+                            <div class="link-btn"><a href="blogs/hiring-housekeeping-services"
                                     class="theme-btn btn-style-one style-two"><span> Learn More</span></a></div>
                         </div>
                     </div>
