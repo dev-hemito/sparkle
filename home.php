@@ -15,7 +15,7 @@
                  <br>Extravaganza  </h1>
                 <div class="text">Discover your next great adventure.</div>
                 <div class="link-box">
-                    <a href="contact.  " class="theme-btn btn-style-one"><span>Schedule Services</span></a>
+                    <a href="contact" class="theme-btn btn-style-one"><span>Schedule Services</span></a>
                 </div>
             </div>
             <div class="image-wrapper">
